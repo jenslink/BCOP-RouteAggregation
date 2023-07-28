@@ -6,3 +6,5 @@ ISPs.
 
 This document is work in progress and when finished will be published as RIPE
 BCOP document.
+
+Pull Requests and Bug Reports are welcome.
